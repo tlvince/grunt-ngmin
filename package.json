@@ -28,6 +28,6 @@
   "author": "Brian Ford",
   "license": "BSD",
   "dependencies": {
-    "ngmin": "~0.4.0"
+    "ngmin": "git+https://github.com/werk85/ngmin.git#2c3281b60a"
   }
 }
